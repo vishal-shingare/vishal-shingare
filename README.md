@@ -4,7 +4,7 @@
 ## In short, Tech Enthusiast Fullstack Developer💻
 - 🔭 I’m currently working on - Building DevOps Knowledge🏋️‍♂️
 - 🌱 I’m currently learning - React & TypeScript😊
-- 🥅 2020 Goal - Certification AZ-900✔
+- 🥅 2021 Goal - Azure Certification AZ-900,AZ-204✔
 - ⚡ Fun fact - I can drive a car🚗🤪
 
 ## Languages and Tools:
@@ -27,6 +27,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- This section you create this variables that are used above -->
-[facebook]: https://www.facebook.com/vishal.shingare.29/
+[facebook]: https://www.facebook.com/visha.shingare/
 [twitter]: https://twitter.com/visha_shingare/
 [linkedin]: https://www.linkedin.com/in/vishal-shingare/
