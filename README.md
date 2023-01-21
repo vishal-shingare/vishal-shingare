@@ -1,8 +1,8 @@
-## <span style="font-family: url('https://fonts.googleapis.com/css2?family=Cookie&display=swap')">Hi, I am Vishal</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> <span style="font-family: url('https://fonts.googleapis.com/css2?family=Cookie&display=swap')">Hi, I am Vishal</span> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOTO&size=48&duration=5500&color=818CF8&background=FBBF2400&vCenter=true&width=1300&height=52&lines=Passionate+Full-Stack+Web+Developer.;I+love+to+build+Beautiful+and+Scalable+products.)](https://git.io/typing-svg)
 - 👨‍🏭 Working - On Personal Web Projects and Portfolio.
-- 🌱 Learning - React, TypeScript and Web3.
-- 🎯 2022 Goal - Building knowledge and profile in Web3 space.
+- 🌱 Learning - NextJs, React, TypeScript, AWS and Web3.
+- 🎯 2023 Goal - AWS Cloud Practitioner Certification.
 - ⚡ Hobbies - Anime🤪, Music🎶, Game👾, Swimming🏊‍.
 
 #### My Skills:
