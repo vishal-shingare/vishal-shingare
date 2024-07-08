@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> <span style="font-family: url('https://fonts.googleapis.com/css2?family=Cookie&display=swap')">Hi, I am Vishal</span> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOTO&size=48&duration=5500&color=818CF8&background=FBBF2400&vCenter=true&width=1300&height=52&lines=Passionate+Full-Stack+Web+Developer.;I+love+to+build+Beautiful+and+Scalable+products.)](https://git.io/typing-svg)
-- 👨‍🏭 Working - On Personal Web Projects and Portfolio.
+- 👨‍🏭 Working - On Personal Web Projects and AWS Certification.
 - 🌱 Learning - NextJs, React, TypeScript, AWS and Web3.
 - 🎯 2024 Goal - Learning DSA & Build Fullstack profile.
 - ⚡ Hobbies - Anime🤪, Music🎶, Game👾, Swimming🏊‍.
@@ -26,6 +26,9 @@
 <a href="https://twitter.com/visha_shingare/">
   <img align="left" alt="Vishal Shingare | Twitter" src="https://img.icons8.com/color/32/000000/twitter-circled--v1.png"/>
 </a>
-<a href="https://www.facebook.com/visha.shingare/">
-  <img align="left" alt="Vishal Shingare | Facebook" src="https://img.icons8.com/color/32/000000/facebook-new.png"/>
+<a href="https://leetcode.com/u/vishal-shingare/">
+  <img align="left" width="30px" alt="Vishal Shingare | Leetcode" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png"/>
+</a>
+<a href="https://vishalshingare.vercel.app/">
+  <img align="left" alt="Vishal Shingare | Portfolio" src="https://img.icons8.com/color/32/000000/resume.png"/>
 </a>
