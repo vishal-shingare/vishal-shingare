@@ -1,8 +1,8 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> <span style="font-family: url('https://fonts.googleapis.com/css2?family=Cookie&display=swap')">Hi, I am Vishal</span> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOTO&size=48&duration=5500&color=818CF8&background=FBBF2400&vCenter=true&width=1300&height=52&lines=Passionate+Full-Stack+Web+Developer.;I+love+to+build+Beautiful+and+Scalable+products.)](https://git.io/typing-svg)
 - 👨‍🏭 Working - On Personal Web Projects and AWS Certification.
-- 🌱 Learning - NextJs, React, TypeScript, AWS and Web3.
-- 🎯 2024 Goal - Learning DSA & Build Fullstack profile.
+- 🌱 Learning - AI Implementation and Integrations with Web Apps.
+- 🎯 2025 Goal - Learning DSA & Build Fullstack profile.
 - ⚡ Hobbies - Anime🤪, Music🎶, Game👾, Swimming🏊‍.
 
 #### My Skills:
