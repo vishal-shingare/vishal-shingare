@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOTO&size=48&duration=5500&color=818CF8&background=FBBF2400&vCenter=true&width=1300&height=52&lines=Passionate+Full-Stack+Web+Developer.;I+love+to+build+Beautiful+and+Scalable+products.)](https://git.io/typing-svg)
 - 👨‍🏭 Working - On Personal Web Projects and AWS Certification.
 - 🌱 Learning - AI Implementation and Integrations with Web Apps.
-- 🎯 2025 Goal - Learning DSA & Build Fullstack profile.
+- 🎯 2026 Goal - Systeam Design, DSA & Gen AI.
 - ⚡ Hobbies - Anime🤪, Music🎶, Game👾, Swimming🏊‍.
 
 #### My Skills:
